@@ -1,0 +1,6 @@
+nltk
+wordcloud
+spacy
+pt-core-news-sm
+pandas 
+matplotlib
